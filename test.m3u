@@ -1,9 +1,9 @@
 #EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 09:37 07.05.2023 | #
 #EXTINF:-1 tvg-name=""tvg-id="atv.tr"tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/69f2d05081701e62d382efdeadb96438.png"group-title="Türk:: Ulusal:":http-user-agent="",TR: ATV
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
 http://gamsgo.cyou:8080/stadnik/D77ZDxcJQQzNUJja/521
 #EXTINF:-1 tvg-name="🇹🇷TR: Kanal Avrupa"tvg-id=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3bec6055643d3a4b7078d0bef8c5c4dc.png"group-title="4️⃣ 🇹🇷Türk:":http-user-agent="",🇹🇷TR: Kanal Avrupa
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/16813
 #EXTINF:-1 tvg-name="🇹🇷TR: TRT 4K"tvg-id=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7cce6fc6565cdcf493af768731819cb.png"group-title="4️⃣ 🇹🇷Türk:: Film:":http-user-agent="",🇹🇷TR: TRT 4K
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1810
